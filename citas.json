@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Benito",
+    "edad": " 1 año",
+    "animal": "tortuga",
+    "color": "verde",
+    "enfermedad": "conjuntivitis"
+  },
+  {
+    "nombre": "Guacaipuro",
+    "edad": "5 años",
+    "animal": "loro",
+    "color": "amarillo",
+    "enfermedad": "diabetes"
+  }
+]
